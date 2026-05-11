@@ -1,4 +1,4 @@
-
+Enhance QEMU for macOS with secure QEMU for macOS Addon | 3D-graphics-support + hardware-acceleration, the #1 addon. Includes 3D-graphics-support and hardware-acceleration for a
 
 
 
